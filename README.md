@@ -1,6 +1,6 @@
 <h1>Robotic Hand</h1>
 This is a robotic hand using Arduino.
-Project contributors: Teoman Asrın Talih, Furkan Murat Göncü.
+Project developers: Teoman Asrın Talih, Furkan Murat Göncü.
 
 
 The source used to make: <a href="https://www.hackster.io/mertarduino/how-to-make-wireless-gesture-control-robotic-hand-cc7d07">https://www.hackster.io/mertarduino/how-to-make-wireless-gesture-control-robotic-hand-cc7d07</a>
