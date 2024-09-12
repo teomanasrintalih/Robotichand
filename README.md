@@ -9,8 +9,4 @@ The source used to make: https://www.hackster.io/mertarduino/how-to-make-wireles
   <img src="https://cdn.glitch.global/47f30941-07fc-4244-99bc-49b79e88de30/86bd7569-94b8-40d4-9a3c-094f345aaad7.IMG-20240513-WA0013.jpg?v=1726166702828" alt="Fotoğraf 3" width="200"/>
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/shorts/SuPppLpBBNI?feature=share">
-    <img src="https://img.youtube.com/vi/SuPppLpBBNI/maxresdefault.jpg" alt="Robot EL" width="300"/>
-  </a>
-</p>
+[![Robot EL](https://img.youtube.com/vi/SuPppLpBBNI/0.jpg)](https://www.youtube.com/watch?v=SuPppLpBBNI)
